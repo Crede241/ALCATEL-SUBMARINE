@@ -1,0 +1,12 @@
+Projet;Date_rapport;Longueur_prevue_km;Longueur_deployee_km;Longueur_restante_km;Date_fin_prevue;Port_depart;Lat_depart;Lon_depart;Port_arrivee;Lat_arrivee;Lon_arrivee
+Atlantic Link A;31/07/2024;5200;3637,0;1563,0;09/10/2024;Brest;48,39;-4,49;Virginia Beach;36,85;-75,98
+Med Ring North;31/07/2024;1800;1537,0;263,0;10/08/2024;Marseille;43,3;5,37;Heraklion;35,34;25,14
+Gulf Express;31/07/2024;2600;2149,3;450,7;30/08/2024;Fujairah;25,12;56,34;Mumbai;19,08;72,88
+Pacific Spur 1;31/07/2024;3900;2553,6;1346,4;29/09/2024;Los Angeles;33,74;-118,27;Honolulu;21,31;-157,86
+Baltic Connect;31/07/2024;900;792,9;107,1;20/08/2024;Kiel;54,32;10,14;Helsinki;60,17;24,94
+Indian Ocean East;31/07/2024;4700;2947,1;1752,9;19/10/2024;Mombasa;-4,04;39,67;Chennai;13,08;80,27
+North Sea Feeder;31/07/2024;650;538,3;111,7;15/08/2024;Aberdeen;57,14;-2,09;Stavanger;58,97;5,73
+Caribbean Loop;31/07/2024;2100;1432,2;667,8;30/08/2024;Miami;25,76;-80,19;San Juan;18,47;-66,11
+West Africa Coast;31/07/2024;3300;2674,4;625,6;14/09/2024;Lisbon;38,72;-9,14;Dakar;14,69;-17,44
+Arctic Pilot;31/07/2024;1200;804,5;395,5;30/08/2024;Tromso;69,65;18,96;Longyearbyen;78,22;15,63
+Red Sea Bridge;31/07/2024;1500;1270,6;229,4;20/08/2024;Djibouti;11,59;43,15;Jeddah;21,54;39,17
